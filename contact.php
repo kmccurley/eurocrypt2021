@@ -35,30 +35,29 @@
       <div class="row mt-3 mt-md-4">
         <aside class="col-12 col-sm-6 text-center mb-2">
           <h4 class="subSubtitle">
-            Important Professor #1
+            Lejla Batina
           </h4>
           <p class="text-center">
-            University of Peer Review<br>
-            China
+            Radboud University<br>
+            The Netherlands
           </p>
         </aside>
         <aside class="col-12 col-sm-6 text-center mb-2">
           <h4 class="subSubtitle">
-            World-Famous Researcher
+            Stjepan Picek
           </h4>
           <p class="text-center">
-            Institute for the Advancement of Causative Research<br>
-            Singapore
+            Delft University of Technology<br>
+            The Netherlands
           </p>
         </aside>
       </div>
 
       <div class="row">
         <div class="col-12 text-center mb-5">
-          <a href="mailto:doNotEmailMe@fakeDomain.com">
-            <img src="images/icons/email.svg" class="icon" />
-          </a>&nbsp;
-          doNotEmailMe@fakeDomain.com
+          <a href="mailto:eurocrypt2021@iacr.org">
+            <img src="images/icons/email.svg" class="icon" />&nbsp;eurocrypt2021@iacr.org
+          </a>
         </div>
       </div>
 
@@ -69,33 +68,101 @@
       <div class="row mt-3 mt-md-4">
         <aside class="col-12 col-sm-6 text-center mb-2">
           <h4 class="subSubtitle">
-            SmartGuy McWriter
+            Anne Canteaut
           </h4>
           <p class="text-center">
-            Synonym College<br>
-            Romania
+            Inria Paris<br>
+            France
           </p>
         </aside>
         <aside class="col-12 col-sm-6 text-center mb-2">
           <h4 class="subSubtitle">
-            Ellis Papers
+            Francois-Xavier Standaert
           </h4>
           <p class="text-center">
-            Society for Promotion of Encryption<br>
-            Senegal
+            Université catholique de Louvain<br>
+            Belgium
           </p>
         </aside>
       </div>
 
       <div class="row">
-        <div class="col-12 text-center">
-          <a href="mailto:reallyDoNotEmailMe@fakeDomain.com">
-            <img src="images/icons/email.svg" class="icon" />
-          </a>&nbsp;
-          reallyDoNotEmailMe@fakeDomain.com
+        <div class="col-12 text-center mb-5">
+          <a href="mailto:eurocrypt2021programchairs@iacr.org">
+            <img src="images/icons/email.svg" class="icon" />&nbsp;eurocrypt2021programchairs@iacr.org
+          </a>
         </div>
       </div>
 
+      <!-- <h3 class="pageSubtitle text-center mt-4">
+        Virtual Conference Administrators
+      </h3>
+      <div class="row mt-3 mt-md-4">
+        <aside class="col-12 col-sm-6 text-center mb-2">
+          <h4 class="subSubtitle">
+            Kevin McCurley
+          </h4>
+        </aside>
+        <aside class="col-12 col-sm-6 text-center mb-2">
+          <h4 class="subSubtitle">
+            Kay McKelly
+          </h4>
+          <p class="text-center">
+            IACR
+          </p>
+        </aside>
+      </div>
+      <div class="row">
+        <div class="col-12 text-center mb-5">
+          <a href="mailto:virtual-conferences@iacr.org">
+            <img src="images/icons/email.svg" class="icon" />&nbsp;<img src="images/contacts/vc.jpg" />
+          </a>
+        </div>
+      </div> -->
+
+<!--      <h3 class="pageSubtitle text-center mt-4">
+        Local Organizing Committee
+      </h3>
+
+      <div class="row mt-3 mt-md-4">
+        <aside class="col-12 col-sm-3 text-center mb-2">
+          <h4 class="subSubtitle">
+            Shanley Fijn
+          </h4>
+          <p class="text-center">
+            Radboud University<br>
+            The Netherlands
+          </p>
+        </aside>
+        <aside class="col-12 col-sm-3 text-center mb-2">
+          <h4 class="subSubtitle">
+            Marin Golub
+          </h4>
+          <p class="text-center">
+            University of Zagreb<br>
+            Croatia
+          </p>
+        </aside>
+        <aside class="col-12 col-sm-3 text-center mb-2">
+          <h4 class="subSubtitle">
+            Domagoj Jakobovi&cacute;
+          </h4>
+          <p class="text-center">
+            University of Zagreb<br>
+            Croatia
+          </p>
+        </aside>
+        <aside class="col-12 col-sm-3 text-center mb-2">
+          <h4 class="subSubtitle">
+            Simona Samardjiska
+          </h4>
+          <p class="text-center">
+            Radboud University<br>
+            The Netherlands
+          </p>
+        </aside>
+      </div>
+-->
     </main>
 
   <?php include "includes/footer.php"; ?>

@@ -1,4 +1,5 @@
 <?php
+// require "style_picker.php";
   // This invokes php to populate some variables that
   // are available as $META. It should be included
   // at the beginning of the <head> tag.
@@ -38,7 +39,7 @@
 
     <!-- Styling -->
     <link rel="stylesheet" href="<?php echo rootPath();?>styles/main.css">
-    <link id="style" rel="stylesheet" href="<?php echo rootPath();?>styles/orange_theme.css">
+    <link id="style" rel="stylesheet" href="<?php echo rootPath();?>styles/blue2_theme.css">
     <!-- metadata for googlebot -->
     <script type="application/ld+json">
      {
