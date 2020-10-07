@@ -40,18 +40,18 @@
               <a class="nav-link" href="<?php echo rootPath(); ?>">Home</a>
             </li>
             <li class="nav-item dropdown">
-              <!-- <a class="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#">Technical Program</a>
+              <a class="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#">Technical Program</a>
               <div class="dropdown-menu mx-md-3 mx-lg-5">
                 <a class="dropdown-item" href="<?php echo rootPath() . 'callforpapers.php' ?>">Call for papers</a>
                 <a class="dropdown-item" href="<?php echo rootPath() . 'papersubmission.php' ?>">Paper submission</a>
-                <a class="dropdown-item" href="<?php echo rootPath() . 'invitedtalks.php' ?>">Invited talks</a>
+<!--                <a class="dropdown-item" href="<?php echo rootPath() . 'invitedtalks.php' ?>">Invited talks</a>
                 <a class="dropdown-item" href="<?php echo rootPath() . 'acceptedpapers.php' ?>">Accepted papers</a>
                 <a class="dropdown-item" href="<?php echo rootPath() . 'program.php' ?>">Main program</a>
                 <a class="dropdown-item" href="<?php echo rootPath() . 'rumpsession.php' ?>">Rump session</a>
                 <a class="dropdown-item" href="<?php echo rootPath() . 'rumpprogram.php' ?>">Rump session program</a>
-                <a class="dropdown-item" href="<?php echo rootPath() . 'affiliated.php' ?>">Affiliated events</a>
+                <a class="dropdown-item" href="<?php echo rootPath() . 'affiliated.php' ?>">Affiliated events</a> -->
               </div> 
-            </li> -->
+            </li> 
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#">General information</a>
               <div class="dropdown-menu mx-md-3 mx-lg-5">

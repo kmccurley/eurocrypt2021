@@ -1,0 +1,364 @@
+{
+  "_source": "https://www.iacr.org/cryptodb/pc",
+  "committee": [
+    {
+      "name": "Shweta Agrawal",
+      "affiliation": "IIT Madras, India",
+      "lastname": "Agrawal",
+      "id": 6265
+    },
+    {
+      "name": "Joël Alwen",
+      "affiliation": "Wickr, USA",
+      "lastname": "Alwen",
+      "id": 1184
+    },
+    {
+      "name": "Foteini Baldimtsi",
+      "affiliation": "George Mason University, USA",
+      "lastname": "Baldimtsi",
+      "id": 8381
+    },
+    {
+      "name": "Marshall Ball",
+      "affiliation": "Columbia University, USA",
+      "lastname": "Ball",
+      "id": 10080
+    },
+    {
+      "name": "Begül Bilgin",
+      "affiliation": "Rambus - Cryptography Research, The Netherlands",
+      "lastname": "Bilgin",
+      "id": 7837
+    },
+    {
+      "name": "Nir Bitansky",
+      "affiliation": "Tel Aviv University, Israel",
+      "lastname": "Bitansky",
+      "id": 6293
+    },
+    {
+      "name": "Joppe W. Bos",
+      "affiliation": "NXP Semiconductors, Belgium",
+      "lastname": "Bos",
+      "id": 6304
+    },
+    {
+      "name": "Christina Boura",
+      "affiliation": "University of Versailles, France",
+      "lastname": "Boura",
+      "id": 7553
+    },
+    {
+      "name": "Wouter Castryck",
+      "affiliation": "KU Leuven, Belgium",
+      "lastname": "Castryck",
+      "id": 5689
+    },
+    {
+      "name": "Kai-Min Chung",
+      "affiliation": "Academia Sinica, Taiwan",
+      "lastname": "Chung",
+      "id": 6180
+    },
+    {
+      "name": "Jean-Sébastien Coron",
+      "affiliation": "University of Luxembourg, Luxembourg",
+      "lastname": "Coron",
+      "id": 10441
+    },
+    {
+      "name": "Véronique Cortier",
+      "affiliation": "LORIA, CNRS, France",
+      "lastname": "Cortier",
+      "id": 9193
+    },
+    {
+      "name": "Geoffroy Couteau",
+      "affiliation": "CNRS, IRIF, Université de Paris, France",
+      "lastname": "Couteau",
+      "id": 9401
+    },
+    {
+      "name": "Léo Ducas",
+      "affiliation": "CWI, Amsterdam, The Netherlands",
+      "area":"area chair (public-key crypto)",
+      "lastname": "Ducas",
+      "id": 7880
+    },
+    {
+      "name": "Orr Dunkelman",
+      "affiliation": "University of Haifa, Israel",
+      "lastname": "Dunkelman",
+      "id": 33
+    },
+    {
+      "name": "Stefan Dziembowski",
+      "affiliation": "University of Warsaw, Poland",
+      "area":"area chair (theory)",
+      "lastname": "Dziembowski",
+      "id": 1700
+    },
+    {
+      "name": "Thomas Eisenbarth",
+      "affiliation": "University of Lübeck, Germany",
+      "lastname": "Eisenbarth",
+      "id": 1121
+    },
+    {
+      "name": "Luca De Feo",
+      "affiliation": "IBM Research Zürich, Switzerland",
+      "lastname": "Feo",
+      "id": 10921
+    },
+    {
+      "name": "Dario Fiore",
+      "affiliation": "IMDEA Software Institute, Spain",
+      "lastname": "Fiore",
+      "id": 4428
+    },
+    {
+      "name": "Marc Fischlin",
+      "affiliation": "TU Darmstadt, Germany",
+      "lastname": "Fischlin",
+      "id": 227
+    },
+    {
+      "name": "Benjamin Fuller",
+      "affiliation": "University of Connecticut, USA",
+      "lastname": "Fuller",
+      "id": 7756
+    },
+    {
+      "name": "Adrià Gascón",
+      "affiliation": "Google, UK",
+      "lastname": "Gascón",
+      "id": 11139
+    },
+    {
+      "name": "Henri Gilbert",
+      "affiliation": "ANSSI, France",
+      "lastname": "Gilbert",
+      "id": 38
+    },
+    {
+      "name": "Shai Halevi",
+      "affiliation": "Algrorand Foundation, USA",
+      "lastname": "Halevi",
+      "id": 232
+    },
+    {
+      "name": "Annelie Heuser",
+      "affiliation": "Université de Rennes, CNRS, IRISA, France",
+      "lastname": "Heuser",
+      "id": 8613
+    },
+    {
+      "name": "Naofumi Homma",
+      "affiliation": "Tohoku University, Japan",
+      "lastname": "Homma",
+      "id": 1124
+    },
+    {
+      "name": "Kristina Hostáková",
+      "affiliation": "TU Darmstadt, Germany",
+      "lastname": "Hostáková",
+      "id": 10345
+    },
+    {
+      "name": "Tetsu Iwata",
+      "affiliation": "Nagoya University, Japan",
+      "lastname": "Iwata",
+      "id": 299
+    },
+    {
+      "name": "Marc Joye",
+      "affiliation": "Zama, France",
+      "lastname": "Joye",
+      "id": 809
+    },
+    {
+      "name": "Pascal Junod",
+      "affiliation": "Snap, Switzerland",
+      "area":"area chair (real-world crypto)",
+      "lastname": "Junod",
+      "id": 149
+    },
+    {
+      "name": "Pierre Karpman",
+      "affiliation": "Université Grenoble-Alpes, France",
+      "lastname": "Karpman",
+      "id": 8944
+    },
+    {
+      "name": "Gregor Leander",
+      "affiliation": "Ruhr-Universität Bochum, Germany",
+      "area":"area chair (symmetric crypto)",
+      "lastname": "Leander",
+      "id": 459
+    },
+    {
+      "name": "Benoît Libert",
+      "affiliation": "CNRS and ENS de Lyon, France",
+      "lastname": "Libert",
+      "id": 163
+    },
+    {
+      "name": "Julian Loss",
+      "affiliation": "University of Maryland, College Park, USA",
+      "lastname": "Loss",
+      "id": 10381
+    },
+    {
+      "name": "Christian Majenz",
+      "affiliation": "CWI, Amsterdam, the Netherlands",
+      "lastname": "Majenz",
+      "id": 10358
+    },
+    {
+      "name": "Daniel Masny",
+      "affiliation": "Visa Research, USA",
+      "lastname": "Masny",
+      "id": 8002
+    },
+    {
+      "name": "Bart Mennink",
+      "affiliation": "Radboud University, the Netherlands",
+      "lastname": "Mennink",
+      "id": 7117
+    },
+    {
+      "name": "Tarik Moataz",
+      "affiliation": "Aroki Systems, USA",
+      "lastname": "Moataz",
+      "id": 8799
+    },
+    {
+      "name": "Amir Moradi",
+      "affiliation": "Ruhr-Universität Bochum, Germany",
+      "lastname": "Moradi",
+      "id": 1022
+    },
+    {
+      "name": "Michael Naehrig",
+      "affiliation": "Microsoft Research, USA",
+      "lastname": "Naehrig",
+      "id": 3234
+    },
+    {
+      "name": "María Naya-Plasencia",
+      "affiliation": "Inria, France",
+      "lastname": "Naya-Plasencia",
+      "id": 2190
+    },
+    {
+      "name": "Claudio Orlandi",
+      "affiliation": "Aarhus University, Denmark",
+      "lastname": "Orlandi",
+      "id": 5691
+    },
+    {
+      "name": "Elisabeth Oswald",
+      "affiliation": "University of Klagenfurt, Austria",
+      "area":"area chair (implementations)",
+      "lastname": "Oswald",
+      "id": 705
+    },
+    {
+      "name": "Dan Page",
+      "affiliation": "University of Bristol, UK",
+      "lastname": "Page",
+      "id": 889
+    },
+    {
+      "name": "Rafael Pass",
+      "affiliation": "Cornell Tech, USA",
+      "lastname": "Pass",
+      "id": 639
+    },
+    {
+      "name": "Thomas Peyrin",
+      "affiliation": "Nanyang Technological University, Singapore",
+      "lastname": "Peyrin",
+      "id": 515
+    },
+    {
+      "name": "Oxana Poburinnaya",
+      "affiliation": "University of Rochester and Ligero, Inc, USA",
+      "lastname": "Poburinnaya",
+      "id": 9978
+    },
+    {
+      "name": "Matthieu Rivain",
+      "affiliation": "CryptoExperts, France",
+      "lastname": "Rivain",
+      "id": 1009
+    },
+    {
+      "name": "Adeline Roux-Langlois",
+      "affiliation": "Univ. Rennes, CNRS, IRISA, France",
+      "lastname": "Langlois",
+      "id": 8362
+    },
+    {
+      "name": "Louis Salvail",
+      "affiliation": "Université de Montréal, Canada",
+      "lastname": "Salvail",
+      "id": 1315
+    },
+    {
+      "name": "Yu Sasaki",
+      "affiliation": "NTT laboratories, Japan",
+      "lastname": "Sasaki",
+      "id": 560
+    },
+    {
+      "name": "Tobias Schneider",
+      "affiliation": "NXP Semiconductors, Austria",
+      "lastname": "Schneider",
+      "id": 9604
+    },
+    {
+      "name": "Yannick Seurin",
+      "affiliation": "ANSSI, France",
+      "lastname": "Seurin",
+      "id": 1078
+    },
+    {
+      "name": "Emmanuel Thomé",
+      "affiliation": "LORIA, INRIA Nancy, France",
+      "lastname": "Thomé",
+      "id": 614
+    },
+    {
+      "name": "Vinod Vaikuntanathan",
+      "affiliation": "MIT, USA",
+      "lastname": "Vaikuntanathan",
+      "id": 641
+    },
+    {
+      "name": "Prashant Nalini Vasudevan",
+      "affiliation": "UC Berkeley, USA",
+      "lastname": "Vasudevan",
+      "id": 9179
+    },
+    {
+      "name": "Daniele Venturi",
+      "affiliation": "Sapienza University of Rome, Italy",
+      "lastname": "Venturi",
+      "id": 7592
+    },
+    {
+      "name": "Daniel Wichs",
+      "affiliation": "Northeastern University and NTT Research Inc., USA",
+      "lastname": "Wichs",
+      "id": 3989
+    },
+    {
+      "name": "Yu Yu",
+      "affiliation": "Shanghai Jiao Tong University, China",
+      "lastname": "Yu",
+      "id": 7562
+    }
+  ]
+}

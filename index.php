@@ -41,7 +41,12 @@
           on <span class="conf_dates"><?php echo $META['dates'];?></span>.-->
             <span class="long_conf"><?php echo $META['shortName'];?></span> is the 40th Annual International Conference on the 
             Theory and Applications of Cryptographic Techniques. Eurocrypt is one of the three flagship conferences of <a href="http://iacr.org/">
-            the International Association for Cryptologic Research</a> (IACR). 
+            the International Association for Cryptologic Research</a> (IACR). </p>
+            <p>
+            <span class="conf_name"><?php echo $META['shortName'];?></span> will take place in <span class="conf_location"><?php echo $META['location'];?></span> on <span class="conf_dates"><?php echo $META['dates'];?></span>.
+        <a href="callforpapers.php" class="float-right mb-4 btn btn-warning btn-block regBtn w-25 ml-3" role="button">
+          Call for papers
+        </a>
         </p>
         <!-- <p class="editMe">
           Please visit the <a href="./callforpapers.php">call for papers</a> page while we work on
@@ -129,6 +134,14 @@
           <h4 class="customCardHeader">
             Website Updates
           </h4>
+  <div class="customCardRow row">
+    <h6 class="dateTitle col-5 col-md-4">
+        October 2 2020
+    </h6>
+    <p class="col-7 col-md-8">
+      <a href="papersubmission.php">Submission</a> server is open
+    </p>
+  </div>
   <!--        <div class="customCardRow row">
             <h6 class="dateTitle col-5 col-md-4">
               May 12 2020

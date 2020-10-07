@@ -17,22 +17,22 @@
       Submission deadline at 21:00 UTC
     </p>
   </div>
- <!--  <div class="customCardRow row">
-    <h6 class="dateTitle col-5 col-md-4 past">
-      December 2 2019
+  <div class="customCardRow row">
+    <h6 class="dateTitle col-5 col-md-4">
+      December 3 2020
     </h6>
     <p class="col-7 col-md-8">
       Reviews sent out for rebuttals
     </p>
-  </div> -->
-  <!-- <div class="customCardRow row">
-    <h6 class="dateTitle col-5 col-md-4 past">
-      December 6 2019
+  </div>
+ <div class="customCardRow row">
+    <h6 class="dateTitle col-5 col-md-4">
+      December 8 2020
     </h6>
     <p class="col-7 col-md-8">
-      Rebuttals due by 23:59 CET
+      Rebuttals due
     </p>
-  </div> -->
+  </div>
   <div class="customCardRow row">
     <h6 class="dateTitle col-5 col-md-4">
       January 25 2021
