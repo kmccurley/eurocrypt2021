@@ -30,7 +30,7 @@
       December 8 2020
     </h6>
     <p class="col-7 col-md-8">
-      Rebuttals due
+      Rebuttals due at 21:00 UTC
     </p>
   </div>
   <div class="customCardRow row">
