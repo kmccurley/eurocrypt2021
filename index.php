@@ -44,6 +44,7 @@
             the International Association for Cryptologic Research</a> (IACR). </p>
             <p>
             <span class="conf_name"><?php echo $META['shortName'];?></span> will take place in <span class="conf_location"><?php echo $META['location'];?></span> on <span class="conf_dates"><?php echo $META['dates'];?></span>.
+             <p class="alert alert-danger"><b>The current situation with COVID-19 does not look promising for having a physical event in May. Hence, the IACR board decided to reschedule the event for Oct. 17-21, 2021, in hopes that in October it will be possible to hold a physical or hybrid event.</b></p>
         <a href="callforpapers.php" class="float-right mb-4 btn btn-warning btn-block regBtn w-25 ml-3" role="button">
           Call for papers
         </a>

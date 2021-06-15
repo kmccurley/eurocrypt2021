@@ -27,7 +27,7 @@
   </div>
  <div class="customCardRow row">
     <h6 class="dateTitle col-5 col-md-4">
-      December 8 2020
+      December 10 2020
     </h6>
     <p class="col-7 col-md-8">
       Rebuttals due at 21:00 UTC
@@ -43,7 +43,7 @@
   </div>
   <div class="customCardRow row">
     <h6 class="dateTitle col-5 col-md-4">
-      February 23 2021
+      March 4 2021, 20:59 UTC
     </h6>
     <p class="col-7 col-md-8">
       Final version due
